@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">E-Waste Recycling</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_admin">Admin</string>
+    <string name="title_accept">Accept Request</string>
+    <string name="title_accepted">Accepted Request</string>
+    <string name="title_chat">Chat</string>
+
+    <string name="google_map_api_key">AIzaSyCuN_T7G_WF_cA8SObet5eIrKZgZIzGaUw</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="Categories">
+        <item>Select Categories</item>
+        <item>ICT and Telecommunications equipment</item>
+        <item>Office electronics</item>
+        <item>Large Household Appliances</item>
+        <item>Small Household Appliances</item>
+        <item>Medical equipment</item>
+    </string-array>
+</resources>

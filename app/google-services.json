@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "207745664836",
+    "firebase_url": "https://final-year-project-51c9a.firebaseio.com",
+    "project_id": "final-year-project-51c9a",
+    "storage_bucket": "final-year-project-51c9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207745664836:android:6004993d8f0e6e14",
+        "android_client_info": {
+          "package_name": "com.example.ccw.e_wasterecycling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207745664836-d7oef3plvlj7lda4f4796l9qpk4q46iv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ccw.e_wasterecycling",
+            "certificate_hash": "704a2442378bf1d49a14d3283f5f4b5803ece18e"
+          }
+        },
+        {
+          "client_id": "207745664836-cglbfiueh689a7iabl7kuk4qt903peag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUUHLKsOK6NKw1zzsYJI-y8-j3oJcLXlM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207745664836-cglbfiueh689a7iabl7kuk4qt903peag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
